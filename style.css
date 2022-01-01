@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&family=Lobster&display=swap');
+
+{
+  margin: 0;
+  padding: 0;
+}
+
+.head h1{
+  font-family: lobster;
+  text-align: center;
+  font-size: 100px;
+  color: #000;
+}
+
+.head h2{
+  font-family: lobster;
+  text-align: center;
+  font-size: 55px;
+  color: #000;
+}
+
+.foot h1{
+  font-family: lobster;
+  text-align: center;
+  font-size: 100px;
+  color: #000;
+}
+
+.video1 {
+  display: flex;
+  align-items: top;
+  font-weight: bolder;
+  font-size: 30px;
+  font-family: comfortaa;
+  color: #007bff;
+  text-decoration: none;
+}
+
+.video2 {
+  display: flex;
+  align-items: top;
+  font-weight: bolder;
+  font-size: 30px;
+  font-family: comfortaa;
+  color: #03fc17;
+  text-decoration: none;
+}
